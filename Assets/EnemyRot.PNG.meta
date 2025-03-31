@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: 2b4853e8f62b9b54981bf50d1a5e243d
+guid: 0de33067f1dd1f54d8bcdcb533844ec9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1403178863886371319
-    second: Screenshot 2025-03-20 202928_0
+      213: -3827738501879254830
+    second: EnemyRot_0
+  - first:
+      213: -7381304462662302884
+    second: EnemyRot_1
+  - first:
+      213: 882355902564131036
+    second: EnemyRot_2
+  - first:
+      213: -4007085790355239071
+    second: EnemyRot_3
+  - first:
+      213: 3682333852156668985
+    second: EnemyRot_4
+  - first:
+      213: -6564116120859521015
+    second: EnemyRot_5
+  - first:
+      213: 6760280717679818365
+    second: EnemyRot_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +131,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Screenshot 2025-03-20 202928_0
+      name: EnemyRot_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 481
-        height: 269
+        width: 126
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f9884a0eb7197310800000000000000
-      internalID: 1403178863886371319
+      spriteID: 9b503b9d3e319ac42ab641b22ae432b2
+      internalID: 487484766
       vertices: []
       indices: 
       edges: []
@@ -138,7 +156,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 58e80469632680d408268c95ad5b740e
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +166,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Screenshot 2025-03-20 202928_0: 1403178863886371319
+      EnemyRot_0: 487484766
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
 public class NewMonoBehaviourScript : MonoBehaviour
@@ -13,8 +14,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
         }
 
         if (collision.gameObject.name.Equals("Box")){
-            winScreen.SetActive(true);
-            Time.timeScale = 0f;
+            SceneManager.LoadScene("Man 2");
+            
         }
     }
 }
